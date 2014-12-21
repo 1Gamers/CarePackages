@@ -1,0 +1,13 @@
+example: true
+
+#Refrences to CarePackage Class Files
+#How it works... 
+#<name>:
+#    package: com.example.Example
+#    name: §5Example Care Package
+# package - Package of class and 
+#
+#
+#
+carepackages: 
+  
